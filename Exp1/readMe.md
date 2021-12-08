@@ -1,1 +1,1 @@
-Implementation of lexical analyser using lex tool
+Implementation  of  lexical analyser using lex tool
